@@ -1,0 +1,15 @@
+https://template.cityu.edu.hk/template/logo/phy/phy_logo_eng_cmyk.svg -> IMAGE/phy_logo_eng_cmyk.svg
+https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=uc9FdAIAAAAJ&citpid=6 -> IMAGE/citations
+https://www.ill.eu/fileadmin/_processed_/5/7/csm_csm_Falus_05cb9807c7_f3595f58ce.png -> IMAGE/csm_csm_Falus_05cb9807c7_f3595f58ce.png
+https://research.manchester.ac.uk/files-asset/156595810/Lu_photo_head.JPG?w=320&f=webp -> IMAGE/Lu_photo_head.JPG
+https://www.isis.stfc.ac.uk/Gallery/MONA.jpg?Width=360&Height=222&RenditionID=6 -> IMAGE/MONA.jpg
+https://www.isis.stfc.ac.uk/Gallery/Li%20Peixun%2014EC1897%20150dpi.jpg?Width=115&Height=185 -> IMAGE/Li_Peixun_14EC1897_150dpi.jpg
+https://research.kek.jp/people/seto/images/1703shiosaka_sobetsu.jpg -> IMAGE/1703shiosaka_sobetsu.jpg
+images/koichi_mayumi.jpg -> IMAGE/koichi_mayumi.jpg
+images/tatsuro_oda.jpg -> IMAGE/tatsuro_oda.jpg
+https://www.scl.kyoto-u.ac.jp/~kanaya2/2yamada.jpg -> IMAGE/2yamada.jpg
+https://faculty.pku.edu.cn/_resources/group1/M00/00/06/cxv0BF5CdA-AMnZpAAF3Ygg7vXY767.png -> IMAGE/cxv0BF5CdA-AMnZpAAF3Ygg7vXY767.png
+https://people.ucas.ac.cn/self/img/8273ab2e-ef24-41c9-98c5-ae321b51c306.jpg -> IMAGE/8273ab2e-ef24-41c9-98c5-ae321b51c306.jpg
+https://people.ucas.edu.cn/self/img/fa26ee94-1959-4e9a-ad35-a8db59042bed.jpg -> IMAGE/fa26ee94-1959-4e9a-ad35-a8db59042bed.jpg
+https://people.ucas.ac.cn/self/img/a0299324-ce38-4bb2-a338-2afc7bf1086b.jpg -> IMAGE/a0299324-ce38-4bb2-a338-2afc7bf1086b.jpg
+https://croucher.org.hk/assets/croucher-stamp-red.svg -> IMAGE/croucher-stamp-red.svg
